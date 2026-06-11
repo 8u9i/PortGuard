@@ -66,7 +66,7 @@ Core has no UI or platform dependencies. The Windows project implements Core abs
 ### Build
 
 ```bash
-git clone https://github.com/YOUR_USER/PortGuard.git
+git clone https://github.com/8u9i/PortGuard.git
 cd PortGuard
 dotnet build
 ```
