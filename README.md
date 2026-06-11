@@ -4,6 +4,8 @@
 
 Built with .NET 9 and WPF, PortGuard uses the same Windows IP Helper API (`GetExtendedTcpTable`) as Microsoft's TCPView to give you a native, kernel-level view of every open port and its owning process.
 
+![PortGuard Demo](Demo.jpeg)
+
 ## Features
 
 - **Live port enumeration** — TCP, UDP, TCPv6, UDPv6 with state tracking (LISTEN, ESTABLISHED, TIME_WAIT, etc.)
